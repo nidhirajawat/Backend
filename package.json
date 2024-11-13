@@ -1,0 +1,22 @@
+{
+  "name": "backend-api",
+  "version": "1.0.0",
+  "description": "e-commerce or electronic commerce is th buying and selling of goals and services online. ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "6000",
+    "server": "node index.js",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "online-shopping"
+  ],
+  "author": "Nidhi-rajawat",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
